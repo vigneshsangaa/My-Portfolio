@@ -8,7 +8,7 @@ Personal portfolio website showcasing work in VLSI/Analog Design, FPGA implement
 
 ## About Me
 
-Final-year B.Tech ECE student at RGUKT Basar (Class of 2027), focused on VLSI/Analog IC Design and FPGA development. Completed a summer internship at NIT Warangal on an ADPLL (All-Digital Phase-Locked Loop) project, with hands-on experience in Verilog/SystemVerilog, Cadence tools.
+Final-year B.Tech ECE student at RGUKT Basar (Class of 2027), focused on VLSI/Analog Design and FPGA development. Completed a summer internship at NIT Warangal on an ADPLL (All-Digital Phase-Locked Loop) project, with hands-on experience in Verilog/SystemVerilog, Cadence tools.
 
 ---
 
