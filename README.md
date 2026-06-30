@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing work in VLSI/Analog Design, FPGA implementation.
 
-🔗 **Live site:** https://your-username.github.io/repo-name
+🔗 **Live site:** [https://vigneshsangaa.github.io/My-Portfolio/]
 
 ---
 
